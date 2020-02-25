@@ -1,3 +1,4 @@
+Day 1:
 Task
 
 Raghu is a shoe shop owner. His shop has X number  of shoes.
